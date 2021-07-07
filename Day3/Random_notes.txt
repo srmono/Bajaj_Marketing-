@@ -1,0 +1,92 @@
+How web works 
+
+
+Company Name ?  Bajaj 
+
+Gov  Bajaj (Office Address) -> Equipment/Resources
+
+Equipment/Resources -> rent/buy Office - Office Address
+
+
+Website -> Domain name/ Website name
+
+www: world wide web 
+
+Domain sellers : domain 
+
+google.com 
+
+dns : ip addres of server
+
+www.flipkart.com, www.google.in
+
+.com commercial
+.net networking 
+.co 
+.in by country
+
+google
+
+---------------
+
+
+Implementing web
+Webpages local  
+
+host files on server ip address (rent)
+
+Filezilla Client
+
+------------------------
+
+
+www.bajaj.in
+-----------------------------------
+
+
+HTML 
+
+Hyper Text Markup Language
+
+<h1> About page </h1>
+
+
+© 2007-2021 Flipkart.com
+
+
+----------------------------
+
+
+html 5 :
+
+semantic layout elements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

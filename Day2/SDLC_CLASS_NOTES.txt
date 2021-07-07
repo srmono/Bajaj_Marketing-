@@ -1,0 +1,314 @@
+Initial Steps 
+
+Company -> 
+
+Health care
+
+Marketing  ->  Study the Market, come up with idea?
+
+Concept Idea : Online Health Care / Remote Health?
+Online app like practo
+
+Problems facing by people
+What is your solution
+-----
+What is the market trend?
+Gov rules?
+Company direction?
+
+Software / concept?
+
+------------
+Analasys
+How many people will use?
+How much we get?
+Comme up with segments.......
+Competitors 
+Number
+
+----------
+
+Decision ?
+
+CEO
+Management
+Investors...
+
+Done 
+
+Next?
+
+Make from scratch?
+Buy project?
+
+Make or Buy?
+Buy small 
+
+what are the posibilities, without reinventing wheel?
+
+If We have to do, Then?
+
+Product Management / Management
+Architects (solution arc, system designers, app arc...)
+Development Leads
+Developer
+.....
+
+POC : Proof of concept
+2 or 3 -> 2 weeks ?
+
+Tools & Technologies to use
+Budget 
+How much time it takes to complete the project?
+How many number of res.. are required? 
+Challenges?
+
+------
+
+Presented at CEO. 
+
+Let's go ahead
+
+-------------
+
+Improvement ?
+
+Positive Feedback
+
+Constructive Feedback
+
+-----
+Stages: 
+
+*Planning and Requirement Analysis
+
+*Defining Requirements? (SRS: Software Requirement Specification)
+
+*Designing the Product Architecture.
+Propose for 2 to 3 architectures? final arc
+DDS: Design Document Specification
+
+*Developing Product
+ code
+
+* Testing 
+
+* Deployment and Maintenance
+ 
+ App available for appr.. market
+ app rleasing by stage by stage
+ 
+ 
+ Small groups of people (emp, circles)
+ Feedback, surveys, input
+ UAT 
+ 
+ Exsiting product
+
+
+3 specific 
+  machine -> install tomcat ->
+  machines ready -> java apps/pythons
+
+
+--------------------------
+
+Agile Practices
+
+Scrum board
+Story Mapping
+User Stories
+Daily Scrum
+
+
+  Idea for the product for targetted user (patients)
+    -->   Software Company
+
+------------------------------------------------
+
+Epic :  Big Task   healthapp/ecommerce/otherapp
+
+Product owner ->    Developer
+
+
+
+User needs?
+
+consult doctor
+
+Features of the Product
+Decide on Release Date
+Prioritize features
+Adjust feature priority/release
+reject or accept
+
+----------------------------------
+
+Product :  Health / Ecommerce
+
+Epic :  Big Task   healthapp/ecommerce/otherapp
+
+
+Features List 
+Prioritizing features
+
+Weekly one Feature ?
+
+Feature 1  2 weeks
+Feature 2  4 weeks
+Feature 3  1 week
+............
+
+
+Feature Sizing? Small / Medium / Large  (Unknown)
+
+Feature point calculate time
+
+Team involve: Architects, Management & Engineering teams......
+
+One Feature : 
+
+5 or 6  teams 
+
+each team works on one module ? 
+
+Integrate, connectivity 
+
+one feature : modules 
+
+
+Epic ->  Features  --> User Stories -->  Tasks (1,2,3,4,5 )
+
+10 user stories can be one feature
+
+Task ? 
+
+Design Team?
+
+5 to 6 
+
+2 hrs   ?
+6 hrs   ?
+2 days  ?
+
+1hr	2hr	3hr	5hr	8hr	13hr	
+
+21hrs task -> sub tasks
+
+ st 1 ?
+ st 2 ?
+
+Fibonacci series points
+
+Task started -> Time frame
+
+Task open -> Task started -> task closed
+
+open   ->   In progress ->   Review dev  ->   test  ->  test review ->   done
+
+
+Sprint Goal 2weeks time box  : 10 User Stores
+
+Bugs
+
+Monthly 2
+Quarterly 6 sprints
+4Q 
+
+
+
+
+
+
+
+
+
+sprint next 
+
+Feature closure meetings 
+
+
+Release feature 
+
+
+--------------------------
+
+Software -> 
+
+market proj _ mar_web
+finance proj -  fin_web
+
+
+------------------------------
+
+Cart functionality 
+Cart v1 : imp features
+Cart V2 : next level feature
+
+Designer : ui 
+
+Feature 
+
+
+Issue  item to do
+
+---------------------------------------------
+
+Task:
+
+Bajaj Finance ?
+
+Study
+Idea
+Reference:
+srs
+dds
+
+Project Accepted
+draw page based on feature
+Epic->features->stories>tasks 
+
+
+Take Aways?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
