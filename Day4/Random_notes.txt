@@ -1,0 +1,194 @@
+
+ HTML & CSS
+ 
+JavaScript Adds
+
+1995: Netscape programmer - Brandan Eich
+
+Live Script  -> 
+
+Backend : Java popular 
+Frontend: Live Script -> Java Script 
+
+ECMA Script : ES2 - ES5 
+(ES5)
+
+JavaScript
+2015 : Es6
+2016 : ES7
+2017 : ES8
+2018 : ES9 
+ES.next
+-------------------------
+
+Client side programming 
+
+
+Front end developers 
+
+compatibility issues : 
+
+java script -> events 
+
+javascript engines and comparison 
+
+//Interpreted and compiled programming lang
+
+//write script-> compile -> artifact
+
+------------------------------------------
+
+
+Person : Properties and Methods
+
+ name : "venkat"
+ prof : "Training"
+ hobbies: ["yoga", "learning"]
+ 
+---------------------------------------------
+
+
+Data , operators, if, loops, function, dom
+
+--------------------------------------
+Product ->
+Image
+Name
+Price
+cat
+------------------
+
+mouse: click, dbl click, wheel up, move, hover
+
+key: 
+key press
+key down
+key release
+key up
+
+-----------------------------------
+TypeScript
+
+Typed Superset of JavaScript
+
+TS -->  compiles to plain java script
+
+Prereq:
+oops 
+js
+
+
+TS oop with classes, interfaces, 
+
+ts: var message:string = "Hello";
+js: var message = "Hello";
+
+-----------------------------------
+
+EcmaScript + EcmaScript.next + Additional features = TypeScript
+
+Why use ts?
+
+Compilation
+Strong Static Typing
+oops
+------------------------------------
+ Modules
+ Functions
+ Variable
+ Statements & Expressions 
+ comments
+
+---------------------------
+
+Types : 
+
+Any: super type of all data types
+
+BuiltinTypes: 
+number, string, boolean, void, null, undefined
+
+UserDefined Types: 
+Arrays, 
+Enums,
+Classes
+Interfaces ...
+
+-----------------------------
+
+var [identifier] : [type:annotation] =  value ;
+var [identifier] : [type:annotation] ;
+var [identifier] ;
+
+var name:string = "venkat"
+var score:number = 100;
+var sla:number = 99.999999
+var sum = score + sla;
+
+console.log(s)
+
+------------------
+
+function display(id:number, name:string, mail:string){
+}
+
+
+-----------------------
+
+
+
+interface Iperson{
+  FirstName: String,
+  LastName: String,
+  sayHi()=>String
+}
+
+var person:Iperson = {
+  FirstName : "venkat"
+  LastName : "bvs"
+  sayHi: () => {return hi}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

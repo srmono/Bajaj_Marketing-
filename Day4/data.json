@@ -1,0 +1,38 @@
+[ 
+    {
+        "image": "product1.jpeg",
+        "brand": "Mi",
+        "price": "1234",
+        "category": "mobile"
+    },
+    {
+        "image": "product2.jpeg",
+        "brand": "SkYbags",
+        "price": "787",
+        "category": "Travel Bags"
+    },
+    {
+        "image": "product1.jpeg",
+        "brand": "Lenovo",
+        "price": "1234",
+        "category": "mobile"
+    },
+    {
+        "image": "product2.jpeg",
+        "brand": "Dell",
+        "price": "787",
+        "category": "Travel Bags"
+    },
+    {
+        "image": "product1.jpeg",
+        "brand": "Lenovo",
+        "price": "1234",
+        "category": "mobile"
+    },
+    {
+        "image": "product2.jpeg",
+        "brand": "Dell",
+        "price": "787",
+        "category": "Travel Bags"
+    }
+]

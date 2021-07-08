@@ -1,0 +1,19 @@
+#menu{
+    background-color: gold;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: crimson;
+    padding: 15px 30px;
+}
+
+#menu ul li a:hover{
+    background-color: crimson;
+    color: #fff;
+}
