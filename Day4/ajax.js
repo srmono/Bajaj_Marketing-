@@ -1,3 +1,5 @@
+
+// Get the data from server
 function loadData(){
     // Init Ajax object
     var xhttp =  new XMLHttpRequest();
@@ -5,7 +7,8 @@ function loadData(){
     xhttp.onreadystatechange = function(){
 
         if(this.readyState == 4 && this.status == 200 ){
-
+            //this.responseText  : received data from server (response)
+            //JSON.parse(this.responseText); : Parse response as js obj
             var responseData = JSON.parse(this.responseText);
             console.log(responseData)
             processData(responseData)
@@ -13,6 +16,7 @@ function loadData(){
     }
 
     //Configure
+    //
     xhttp.open("GET", "data.json", true);
     xhttp.send();
 }

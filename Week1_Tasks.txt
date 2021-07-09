@@ -1,0 +1,12 @@
+1st Week Tasks:
+
+MySQL              : CRUD operations
+Agile JIRA         : Document, Project in Jira epic, stories, task, start sprint
+Invite: bvsrao91@mail.com
+
+Html, css, template : Template?
+
+Js -> calling data form server 
+https://jsonplaceholder.typicode.com/posts 
+
+Node + Express + Mysql :  Api 

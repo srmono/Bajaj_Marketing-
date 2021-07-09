@@ -1,0 +1,143 @@
+
+  function sum(a,b){
+     return a+b;
+  }
+  
+  sum(2,3); 
+
+  function xyz(){
+     var x = 190;
+     var y = 29;
+     sum(x, y)
+  }
+
+products view? loops
+
+function processdat(products){
+  process
+}
+--------------------------
+
+Node App
+
+Built twice as fast with fewer people
+
+33% fewer lines of code
+
+40% fewer files
+
+2x request /sec
+
+35% faster response times 
+---------------------------
+
+Js every where
+
+-------------------------------
+What is Node js? 
+
+Runtime Environment for running JavaScript
+
+js code   -> loads in browser ->  js engine -> machine code
+
+v8
+
+-------------------------------------
+
+https:// jsonplaceholder.typicode.com /  posts
+
+http:// localshost:8080 / summary
+http:// localshost:8080 / date
+http:// localshost:8080 / products
+
+http:// localshost:8080 / ?
+
+-------------------------------------------------
+
+Node js
+Express Framework
+MySQL
+
+prerequisites 
+
+node
+express
+es6 
+PostMan
+
+/////////////
+
+
+Create the project
+
+ App Folder
+ Initialise the project
+ Install express and other dependencies
+ Create entry point 
+ start web server
+
+
+------------------------------------------------------------------
+
+INSERT INTO `node_mysql_db`.`employees` (`first_name`, `last_name` 'email`, `phone`, ``)
+
+
+INSERT INTO `node_mysql_db`.`employees` (`first_name`, `last_name`,`emil`, `phone`, `organization`,`description`,`salary`, `status`, `is_deleted`,`created_at`) values ('BVS', 'venkat', 'bvsrao91@gmail.com', '118980808', 'Bajaj', 'Trainer' , '8797979.00', '1', '0', '2021-18-07 14:24:30')
+   
+--------------------------------------
+
+INSERT INTO `employees` (`first_name`, `last_name`,`emil`, `phone`, `organization`,`description`,`salary`, `status`, `is_deleted`,`created_at`)  VALUES ('shreyas', 's', 'shreyas@gmail.com', '118980808', 'Bajaj', 'Trainer' , '8797979.00', '1', '0', '2021-07-07 14:24:30');
+------------------------------------------------------------------------------------------
+
+localhost:5000 /
+
+Api endpoints		Req Method	Description
+
+/api/v1/employees	GET		Get All Eployees List
+/api/v1/employees/id	GET		Get emp by emp id
+/api/v1/employees	POST		Create New emp
+/api/v1/employees/id	PATCH		Update Employee Partially
+/api/v1/employees/id	PUT		Update Employee Completely
+/api/v1/employees/id	Delete		Delete Employee by Emp Id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Day5/demoapp/node_modules
+/Day5/demoapp/.pnp
+/Day5/demoapp/.pnp.js
+
+# testing
+/Day5/demoapp/coverage
+
+# production
+/Day5/demoapp/build
+
+# misc
+/Day5/demoapp/.DS_Store
+/Day5/demoapp/.env.local
+/Day5/demoapp/.env.development.local
+/Day5/demoapp/.env.test.local
+/Day5/demoapp/.env.production.local
+
+/Day5/demoapp/npm-debug.log*
+/Day5/demoapp/yarn-debug.log*
+/Day5/demoapp/yarn-error.log*
