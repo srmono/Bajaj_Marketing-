@@ -1,15 +1,20 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/Day6/bajajfin/node_modules
+/Day6/bajajfin/.pnp
+/Day6/bajajfin/.pnp.js
 /Day5/demoapp/node_modules
 /Day5/demoapp/.pnp
 /Day5/demoapp/.pnp.js
 
 # testing
 /Day5/demoapp/coverage
+/Day6/bajajfin/coverage
 
 # production
 /Day5/demoapp/build
+/Day6/bajajfin/build
 
 # misc
 /Day5/demoapp/.DS_Store
@@ -17,7 +22,15 @@
 /Day5/demoapp/.env.development.local
 /Day5/demoapp/.env.test.local
 /Day5/demoapp/.env.production.local
+/Day6/bajajfin/.DS_Store
+/Day6/bajajfin/.env.local
+/Day6/bajajfin/.env.development.local
+/Day6/bajajfin/.env.test.local
+/Day6/bajajfin/.env.production.local
 
+/Day6/bajajfin/npm-debug.log*
+/Day6/bajajfin/yarn-debug.log*
+/Day6/bajajfin/yarn-error.log*
 /Day5/demoapp/npm-debug.log*
 /Day5/demoapp/yarn-debug.log*
 /Day5/demoapp/yarn-error.log*
