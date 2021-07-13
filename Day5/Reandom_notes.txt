@@ -93,12 +93,30 @@ localhost:5000 /
 
 Api endpoints		Req Method	Description
 
-/api/v1/employees	GET		Get All Eployees List
-/api/v1/employees/id	GET		Get emp by emp id
-/api/v1/employees	POST		Create New emp
+/api/v1/employees	GET		Get All Eployees List		Done
+
+/api/v1/employees/id	GET		Get emp by emp id		Done
+
+/api/v1/employees	POST		Create New emp			Done
+
 /api/v1/employees/id	PATCH		Update Employee Partially
 /api/v1/employees/id	PUT		Update Employee Completely
 /api/v1/employees/id	Delete		Delete Employee by Emp Id
+
+
+
+	"first_name": "",
+        "last_name": "venkat",
+        "emil": "bvsrao91@gmail.com",
+        "phone": "118980808",
+        "organization": "Bajaj",
+        "description": "Trainer",
+        "salary": 8797979,
+        "status": 1,
+        "is_deleted": 0,
+        "created_at": "2021-06-07T08:54:30.000Z",
+        "updated_at": "2021-07-09T09:00:22.000Z"
+
 
 
 

@@ -74,8 +74,14 @@ Component Life Cycle methods
 
 ---------------------------------------------------------------
 
+LifeCycle Methods
+State 
+
+16.8 they come up with the cocept called "HOOKS"
 
 
+useState
+useEffect 
 
 
 

@@ -1,7 +1,15 @@
 const express = require("express");
+const bodyParser = require('body-parser');
 
 // Create express app
 const app = express()
+
+// Parse request data content type application/x-www-form-urlencoded
+app.use(bodyParser.urlencoded({ extended: false}));
+
+// parse request data content type application/json
+app.use(bodyParser.json());
+
 
 // setup PORT
 const port = process.env.PORT || 5000;
