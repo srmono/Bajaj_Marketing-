@@ -5,10 +5,12 @@ const bodyParser = require('body-parser');
 const app = express()
 
 // Parse request data content type application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded({ extended: false}));
+//app.use(bodyParser.urlencoded({ extended: false}));// deprecated
+app.use(express.urlencoded()); // Parse URL-encoded bodies
 
 // parse request data content type application/json
-app.use(bodyParser.json());
+//app.use(bodyParser.json()); // deprecated
+app.use(express.json()); // used to parse json bodies
 
 
 // setup PORT

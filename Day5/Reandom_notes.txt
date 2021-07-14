@@ -104,7 +104,7 @@ Api endpoints		Req Method	Description
 /api/v1/employees/id	Delete		Delete Employee by Emp Id
 
 
-
+employeeData= {  employeeData.first_name
 	"first_name": "",
         "last_name": "venkat",
         "emil": "bvsrao91@gmail.com",
@@ -117,7 +117,7 @@ Api endpoints		Req Method	Description
         "created_at": "2021-06-07T08:54:30.000Z",
         "updated_at": "2021-07-09T09:00:22.000Z"
 
-
+}
 
 
 
