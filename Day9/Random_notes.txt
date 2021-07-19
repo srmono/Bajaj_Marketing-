@@ -1,0 +1,283 @@
+
+Harware and infra
+
+Agenda: 
+
+ What is cloud?
+ What is cloud Cloud Computing
+ Cloud Service Models
+ Key cloud concepts
+ Cloud Deployment Models
+ Common Usecases of Cloud Computing
+ How Data Center Architeture is reflected with in the cloud
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+  Business? Website
+
+ Servers: 
+
+  Web Servers, DB Servers,  1000gb  + 2000gb
+
+  IT Resources
+  Up and Running
+  Scale 
+
+
+Problems:
+	Capital is high
+	IT Eng
+ 	Up and Running
+	Scale on Require/ondemand ?
+        Serv1 / Resource
+
+
+---------------------------------------------------
+
+Cloud computing is a remote virtual pool of on demand shared resources
+
+Compute storages
+Databases
+Network Services
+
+
+Virtualization:
+On Premise Data Centers
+---------------------------------------
+
+
+Cloud Computing
+
+Compute: Compute objects prove the brains to process work load
+Classic Environment: 
+Ex: = CPU, RAM
+
+Storage : Allows you to save and stor your data
+Ex:- HDD, SDD, Network Attached Storage (NAS), Storage Area Network SAN, 
+
+Database:
+SQL Server, Oracle, MySQL, NoSQL, Distributed DB
+
+Network: resources provides the connectivity between resources
+Ex:- Routers to route traffic between networks and switches
+
+FireWalls ? allow or deny traffic into environment
+
+Mahine Learning:   25% 
+  Artificial Intelligence
+
+
+--------------------------------
+
+What is Cloud?
+
+Cloud : 
+
+@Workplace Data 
+
+Cloud Deployment Models:
+
+Public Cloud: 
+A vendor makes available the use of shared infra , including:
+compute, storage, databse, network
+
+cloud vendor: AWS, Azure and GCP, IBM...
+Power
+Cooling
+Hardware failure
+
+Private Cloud?
+
+on-premise 
+
+Virtualization : create a pool of shared compute, storage and network
+
+Bajaj:  Finance, Electric, .........
+
+Hybrid Cloud?
+Model that makes use of both Public and Private cloud?
+
+
+Private cloud (compute)   ----------->   Public Cloud 
+
+--------------------------
+Security
+Data Location ?
+Capital Expenditure
+Operational Expenditure
+Tenancy
+
+----------------------------------------
+
+DevOps Tools and Flow
+Kubernetes
+Docker
+Jenkins
+
+Key cloud concepts
+Web APP
+On Demand resourcing: 
+
+	App Service Resource : 200gb hdd, 2gb ram
+
+Scalability: 
+       App Service: Scale up and down 
+
+Economy of scale:
+ Traditional hosting 25k 50k 
+
+Flexibility & Elasticity:
+the amount of resources you required
+resource: 3months
+What scale
+
+Growth: 
+
+
+Utility based metering:
+
+
+Shared Infrastructure:
+
+
+Highly Available:
+
+
+  Security: 
+AWS
+----------------------------------
+
+Cloud Service Models
+
+IaaS: Infrastructure as a service
+
+hardware : os, network,..
+
+configure / architect my own portion of cloud: 
+virtual network
+os, 
+
+
+PaaS: Platform as a service
+
+host hardware + os + network
+network components
+os
+
+SaaS: Software as a service
+Saas
+
+hardware + os+ network + app functions and implement
+
+mail.google.com
+
+DRaaS
+CaaS
+MaaS
+Monitoring as a Service
+
+--------------------------------------------------------------
+
+
+Why organization choose cloud?
+
+ecom -> Big sale 
+netstream: 
+
+Traffic Bursting
+Backup / DR:  policy: 30 days to archive
+Web Hosting
+CDN 
+DNS
+Test/Dev Environments
+
+When purchage laptop/computer os,security : 1hr
+
+minutes
+POC : 
+Idea ?
+
+BigData/ Data Manipulation
+----------------------------------------------------------
+
+ How Data Center Architecture is reflected in the cloud
+
+DC as a whole and its architecture can logically broken down as follows:
+
+Location: Where Geographically located
+
+Pysical Security: (External / Internal )
+
+Mechanical & Exectrical Infrastructure (CRAC ( computer room air condition))
+
+ Generators
+ UPS
+ CRAC
+ Fire Suspension
+
+Network Infrastructure (Switches/Routers/Firewalls)
+
+VPC, subnets
+
+
+Servers (Application/Directory/Database..)
+
+
+
+Storage (NAS, SAN, Block storage, Backup)
+
+AWS EBS 
+
+cloud computing is based on _____________
+
+
+ Management: 
+Req, IT : Operations,
+Develop : Developer
+
+DevOps Culture
+
+
+Horizontal scaling / Vertical scaling 
+
+ec2 
+
+DB: MySQL  rds
+SDK: Node
+Orc: EKS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

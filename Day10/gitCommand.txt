@@ -1,0 +1,236 @@
+  The command line: 
+  Code editors & IDEs
+  GUI : limitations
+
+
+Git Config Setting:
+	Name
+	Email
+	Default Editor
+	Line Ending
+
+System : 	All users
+Global : 	All repo's of the current user
+Employee project
+Local  : 	The current repository
+///
+
+git config --global user.name "username"
+git config --global user.email name@domain.com
+
+git config --global core.editor "code --wait"
+
+Open config file in editor: 
+git config --global -e 
+
+git   --> github
+
+
+windows: abc \r\n -> github
+
+mac/linux: abc \n --> 
+
+core.autocrlf
+
+fix:  git config --global core.autocrlf input
+--------------------------------------------------------------------------
+
+git help
+
+ git init
+ git add files
+ git status , git status -s 
+ git commit -m "message"
+
+
+Dir -> Stage -> Repo
+
+Commit:
+
+Id
+Message
+Date/Time
+Author
+Complete Snapshot
+
+--------------------
+compresses the content
+Doesn't store duplicate content
+---------------------
+
+xs  M  L 
+
+add stage stage first (when script works) => commit
+
+make meaning -> Bug fix 
+
+------------------------------
+
+
+dir -> stage -> commit
+
+list files: git ls-files
+
+
+
+File 1 Changed  Modified
+
+file1 already in git 
+
+git rm file1.txt revert back the changes 
+
+-----------------------------
+
+rename and moving the files
+
+--------------------ignore files
+------------------------------------------------------------
+
+What is git?
+Using git?
+Install Git?
+Configure Git?
+Git help?
+Cheat Sheet
+Taking snapshot
+Initializing a Repository
+Git workflow
+Staging the files
+Committing changes and best practices
+Skipping staging?
+Removing the files
+Renaming or moving file
+Ignoring file
+Short status
+View staged and unstaged changes
+view diff 
+View the history
+viewing the commits
+Unstaging files
+Discarding local changes
+Create Github repo
+Push to remote repo
+Git Branches & Merging
+git checkout -b branchName (create new branch)
+git checkout branchName (switch to branch)
+git branch -l (list branches)
+git merge branchname_to_merge
+
+develop , master, test(in)
+
+How to contribute open source project
+
+
+Cloned -> Added new feature to react --> 
+
+
+Master Script  
+
+emp1  done changes his changes merged  to master 
+
+emp2 -> master
+
+we get the update to local -> we test -> we push 
+
+local source => from remote repo
+
+git pull =  git fetch & git merge
+
+
+Do the changes in server
+
+git fetch master ?  
+git merge
+git pull master ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+ File management
+ Directories
+ File Permissions
+ Environment
+ Basic utilities
+ Pipes and Filters
+ processes 
+ 
+
+2  to 7 
+
+-rwx  rwx rwx 
+2-4: owner  
+5-7: group
+8-10: others
+
+sudo chmod 755 filename
+rwx
+
+0	No permission			---
+1	Execution permission 		--x
+2	write permission		-w-
+3	Exec(1) + Write permission(2)	-wx
+4	Read Permission (4)		r--
+6 	Read + Write (4+ 2)		rw-
+7	All Read + Write + Exec (4+2+1) rwx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
