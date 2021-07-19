@@ -1,0 +1,7 @@
+net\bajajdemo\springboot\exception\ResourceNotFoundException.class
+net\bajajdemo\springboot\repository\UserRepository.class
+net\bajajdemo\springboot\SpringbootCrudRestfulWebservicesApplication.class
+net\bajajdemo\springboot\exception\ErrorDetails.class
+net\bajajdemo\springboot\controller\UserController.class
+net\bajajdemo\springboot\entity\User.class
+net\bajajdemo\springboot\exception\GlobalExceptionHandler.class
